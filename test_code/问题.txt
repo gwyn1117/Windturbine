@@ -1,0 +1,17 @@
+问题
+异常检测：给定较长时间的含部分发电性能异常的机组历史数据，进行异常片段锁定。挑战赛是离线分析。将来完善后可做成在线分析。
+劣化因素研究：在前述历史数据中自动找出具体的发电性能异常相关因素，数据驱动。
+其他（选做、加分项）：
+   劣化因素根因原理分析研究
+   ——导致发电性能劣化的因素众多，如何开展劣化因素的研究。劣化因素之间存在关联性或因果关系，如何量化这些信息。
+   解决方案研究
+   ——针对研究的劣化因素思考解决方案以避免提高功率曲线。
+
+
+
+
+
+参考资料：
+GB 18451.2-2012 风力发电机组　功率特性测试
+IEC 61400-12-1 Power performance measurements of electricity producing wind turbines
+IEC 61400-12-2 Power performance of electricity-producing wind turbines based on nacelle anemometry
